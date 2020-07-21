@@ -1,0 +1,11 @@
+{
+    "name": "stefa/firebase",
+    "description": "prova",
+    "type": "project",
+    "license": "GNU3",
+    "minimum-stability": "dev",
+    "require": {
+        "kreait/firebase-php": "4.0",
+        "php": ">=7.2.0"
+    }
+}
